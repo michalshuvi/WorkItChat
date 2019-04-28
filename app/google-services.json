@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467767702593",
+    "firebase_url": "https://workitchat.firebaseio.com",
+    "project_id": "workitchat",
+    "storage_bucket": "workitchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467767702593:android:18423eb9d6af3324",
+        "android_client_info": {
+          "package_name": "com.example.workitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467767702593-2cm295m8u44hpihglqherb5t8mn0vks6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workitchat",
+            "certificate_hash": "e187974ed6e71b3745908a9dc246a967ba1f5b07"
+          }
+        },
+        {
+          "client_id": "467767702593-ldh12hfspj1o8vt62g8o4o02tvmub7is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6yZAvlZsLEsbT9oSyey7Wv3F2POctzy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467767702593-ldh12hfspj1o8vt62g8o4o02tvmub7is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

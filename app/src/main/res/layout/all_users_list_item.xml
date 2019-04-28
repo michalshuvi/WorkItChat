@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="100dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/all_users_image"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginBottom="15dp"
+        android:src="@drawable/avatar"/>
+
+    <TextView
+        android:id="@+id/all_users_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="24dp"
+        android:layout_toEndOf="@+id/all_users_image"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/all_users_name"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/all_users_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/all_users_name"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@+id/all_users_image"
+        android:textSize="16sp"
+        android:text="hello! I'm online." />
+
+    <ImageView
+        android:id="@+id/online_signal"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="30dp"
+        android:layout_toEndOf="@+id/all_users_name"
+        android:src="@drawable/online_circle"
+        android:visibility="invisible"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.3dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="3dp"
+        android:background="@android:color/darker_gray" />
+
+
+</RelativeLayout>

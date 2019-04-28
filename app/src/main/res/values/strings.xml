@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WorkitChat</string>
+
+    <!-- start activity register -->
+    <string name="start_activity_register">Create a new account</string>
+
+    <!-- Register name -->
+    <string name="reg_name">Name</string>
+    <!-- Register email -->
+    <string name="reg_email">Email</string>
+    <!-- Register password -->
+    <string name="reg_password">Password</string>
+    <!-- Register Button -->
+    <string name="reg_create_account">Create Account</string>
+
+    <!-- main menu logout -->
+    <string name="logout">Logout</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="reg_create_a_new_account">Create a New Account</string>
+    <string name="login_btn">Login</string>
+    <string name="login_to_your_account">Login to your Account</string>
+
+    <!-- main activity tabs titles -->
+    <string name="tab_title_requests">Requests</string>
+    <string name="tab_title_chats">Chats</string>
+    <string name="tab_title_friends">Friends</string>
+
+    <string name="settings_change_status">change status</string>
+    <string name="settings_change_image">Change Image</string>
+
+    <string name="all_users_title">All Users</string>
+    <string name="all_users_name">Name</string>
+
+    <string name="profile_send_friend_request">send friend request</string>
+    <string name="profile_cancel_friend_request">Cancel Friend Request</string>
+    <string name="profile_accept_req">Accept friend request</string>
+    <string name="profile_unfriend">Unfriend</string>
+    <string name="profile_decline_friend_request">Decline Friend Request</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>

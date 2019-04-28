@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#075DA5</color>
+    <color name="colorPrimaryDark">#063F74</color>
+    <color name="colorAccent">#E26700</color>
+    <color name="colorProfileBackground">#292933</color>
+    <color name="chat_background">#ECECEC</color>
+    <color name="chat_plus">#7B7B7B</color>
+</resources>
