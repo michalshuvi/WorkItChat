@@ -23,7 +23,7 @@ Supporting Android 23+ API.
 </p>
 
 <li>Send and Receive Friend Requests</li>
-<li>One-on-One Live Chat - send messages and images, scroll up for older messages</li>
+<li>One-on-One Live Chat - send messages and images, scroll up for older messages. Online and Last seen features.</li>
 <li>Pick an Image and Crop it</li>
 
 <p></p>
