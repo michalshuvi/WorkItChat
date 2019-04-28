@@ -1,8 +1,10 @@
 # WorkitChat
+Personal Project
 
 Chat Mobile App for Android.
 Uses Firebase Platform for Authentication, Real-Time Database, Storage and Notifications.
 Supporting Android 23+ API.
+
 <p align="center">
   <img src="WorkItImages/start.jpeg" width="200" alt="accessibility text">
 </p>
